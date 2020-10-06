@@ -1,0 +1,17 @@
+.home-container{
+    height: 20vh;
+    text-align: center;
+    position: relative;
+    
+}
+.banner-container{
+    margin: auto;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 50px;
+    height: 150px;
+    max-width: 600px;
+    
+}

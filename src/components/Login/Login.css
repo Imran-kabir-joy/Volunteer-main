@@ -1,0 +1,10 @@
+.login-container{
+    background-image: ;
+    height: 100vh;
+}
+.login-box{
+    margin: auto;
+    height: 400px;
+    max-width: 500px;
+    border: 1px solid #ccc;
+}
